@@ -5,7 +5,7 @@ This guide walks you through creating an **Amazon EKS** cluster using **eksctl**
 
 ---
 
-## 📋 Prerequisites 1o1
+## 📋 Prerequisites-101
 
 Before proceeding, ensure the following tools are installed and configured:
 
